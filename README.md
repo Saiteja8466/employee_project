@@ -1,4 +1,4 @@
-#Employee Management System
+# Employee Management System
 
 **Description:**
 A comprehensive Django-based Employee Management System designed for internship tasks. This project encompasses REST APIs, PostgreSQL integration, Swagger documentation, and data visualization features.
