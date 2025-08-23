@@ -1,7 +1,0 @@
-Django>=4.0,<5.0
-djangorestframework
-drf-yasg
-django-environ
-psycopg2-binary
-Faker
-django-filter
